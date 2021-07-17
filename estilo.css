@@ -6,8 +6,8 @@
 }
 header nav { background: rgba(0,0,0,0.5); }
 body {background:
- url('imagens/capa.png'),
- url('imagens/ruido.png'),
+ url('capa.png'),
+ url('ruido.png'),
  linear-gradient(50deg,#FB5490 ,#A544EB);
  background-attachment: fixed;
 }
